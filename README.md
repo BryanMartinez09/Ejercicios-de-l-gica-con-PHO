@@ -1,14 +1,7 @@
 \
 # Módulo 4 - Actividad 3 – Ejercicios de lógica con estructuras de datos en PHP
 
-Cuatro scripts **simples y funcionales** en PHP, listos para correr por CLI.  
-Cada archivo está **comentado** como si fuera escrito por un humano, explicando los pasos.
 
-## Requisitos
-- PHP 8.x (recomendado).  
-- Extensión `mbstring` para un mejor soporte de UTF-8 en el ejercicio 3 (opcional pero recomendado).
-
-## Estructura
 ```
 actividad3-php/
  ├── 1-lista-invertida.php
